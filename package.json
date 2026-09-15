@@ -1,0 +1,13 @@
+{
+  "name": "carcapital",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CarCapital — premium vehicle rentals and discreet security services.",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
